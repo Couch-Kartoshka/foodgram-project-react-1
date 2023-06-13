@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T17:37:04.762Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" version="21.3.8" etag="q3j7AzjNEE5WieJRP5uW" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-13T17:38:56.099Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="rlusQ8BnQcVj9MrcU_nl" version="21.3.8" type="github">
   <diagram name="Page-1" id="Aqi1CBFRmSv2IIAO0Ly1">
-    <mxGraphModel>
+    <mxGraphModel dx="795" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Mtx0ckIziwqKUhlLKlqK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mtx0ckIziwqKUhlLKlqK-1" target="Mtx0ckIziwqKUhlLKlqK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mtx0ckIziwqKUhlLKlqK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mtx0ckIziwqKUhlLKlqK-1" target="Mtx0ckIziwqKUhlLKlqK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mtx0ckIziwqKUhlLKlqK-1" value="Приложение Foodgram" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="360" y="310" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mtx0ckIziwqKUhlLKlqK-2" value="Интерфейс" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="310" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mtx0ckIziwqKUhlLKlqK-4" value="Логика" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="310" width="110" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
